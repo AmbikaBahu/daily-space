@@ -1,9 +1,9 @@
 {
   "name": "Our Finances",
   "short_name": "Finances",
-  "id": "/testing/our-finances-fresh-v3",
-  "start_url": "./?install=v3",
-  "scope": "./",
+  "id": "/daily-space/our-finances-install-2026-11",
+  "start_url": "/daily-space/index.html?install=2026-11",
+  "scope": "/daily-space/",
   "display": "standalone",
   "background_color": "#f7f8f5",
   "theme_color": "#f7f8f5",
